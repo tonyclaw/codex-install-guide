@@ -7,7 +7,7 @@ OpenAI의 자율 코딩 에이전트 **Codex CLI**를 설치하고 설정하는 
 ## 🚀 빠른 설치 (한 줄)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/codex-install-guide/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/tonyclaw/codex-install-guide/main/install.sh | bash
 ```
 
 ---

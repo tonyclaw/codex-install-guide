@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # OpenAI Codex CLI 자동 설치 스크립트
-# 사용: curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/codex-install-guide/main/install.sh | bash
+# 사용: curl -fsSL https://raw.githubusercontent.com/tonyclaw/codex-install-guide/main/install.sh | bash
 # 또는: chmod +x install.sh && ./install.sh
 #
 
